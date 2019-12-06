@@ -1,11 +1,11 @@
 # Site settings
-author: Alex Martinez
-title: 
+author: Alexander Martinez
+title: My CLI Project
 header-img: img/home-bg.png
 email: alexandr3martin3z@gmail.com
-copyright_name: Alex Martinez
+copyright_name: Alexander Martinez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Studio Ghibli Database
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AlexJMartinez
